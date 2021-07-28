@@ -9,7 +9,7 @@ I have completed this project in a code along with The Web Developer Bootcamp 20
  3.Mongodb(Cloud-Atlas)
  4.Mongoose
  5.Ejs
- 6.Clodinary
+ 6.Cloudinary
  7.Joi
  8.Passport
  9.Multer
