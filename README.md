@@ -1,4 +1,4 @@
-YelpCamp is a web application that allows users to register and then login to rate and review campground and also edit and create new campgrounds if granted acess
+YelpCamp is a web application that allows users to register and then login to rate and review campgrounds and also edit and create new campgrounds if granted acess.
 It acts as digital camp portal, with simple user interface for ease of use and facility to book camps, give rating and reviews and also add new campgrounds and edit existing campgrounds.  
 I have deployed the app on heroku and can be acccessed at - https://weyelpcamp.herokuapp.com
 
